@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization9</string>
+    <string name="click_here">Bấm vào đây</string>
+    <string name="do_something">Làm việc gì đó</string>
+    <string name="have_fun">Vui vẻ</string>
+    <string name="surprise">Ngạc nhiên</string>
+</resources>
